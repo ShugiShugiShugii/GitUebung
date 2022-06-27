@@ -1,1 +1,3 @@
-public class B {} 
+public class B {
+	private int i;
+} 
